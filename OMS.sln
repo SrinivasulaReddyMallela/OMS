@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMS.WEBAPI", "OMS.WEBAPI\OMS.WEBAPI.csproj", "{6703C5E6-00F2-4DD2-8B19-9221A4B51817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMS.Entities", "OMS.Entities\OMS.Entities.csproj", "{A37F2385-7FAB-4625-A3A5-DE9D0E4AA0C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMS.Business", "OMS.Business\OMS.Business.csproj", "{73D49D35-2662-45DC-AA78-08A9D6CDB2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMS.Data", "OMS.Data\OMS.Data.csproj", "{7A216205-B7E0-4224-A476-4D3B221DC68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMS.Console", "OMS.Console\OMS.Console.csproj", "{B42999E8-4DE5-4228-A178-801F77A9852D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OMS.SQL", "OMS.SQL\OMS.SQL.sqlproj", "{6543641F-2D74-4DDD-9E86-386B688E0387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6703C5E6-00F2-4DD2-8B19-9221A4B51817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6703C5E6-00F2-4DD2-8B19-9221A4B51817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6703C5E6-00F2-4DD2-8B19-9221A4B51817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6703C5E6-00F2-4DD2-8B19-9221A4B51817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37F2385-7FAB-4625-A3A5-DE9D0E4AA0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37F2385-7FAB-4625-A3A5-DE9D0E4AA0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37F2385-7FAB-4625-A3A5-DE9D0E4AA0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37F2385-7FAB-4625-A3A5-DE9D0E4AA0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D49D35-2662-45DC-AA78-08A9D6CDB2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D49D35-2662-45DC-AA78-08A9D6CDB2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D49D35-2662-45DC-AA78-08A9D6CDB2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D49D35-2662-45DC-AA78-08A9D6CDB2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A216205-B7E0-4224-A476-4D3B221DC68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A216205-B7E0-4224-A476-4D3B221DC68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A216205-B7E0-4224-A476-4D3B221DC68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A216205-B7E0-4224-A476-4D3B221DC68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42999E8-4DE5-4228-A178-801F77A9852D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42999E8-4DE5-4228-A178-801F77A9852D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42999E8-4DE5-4228-A178-801F77A9852D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42999E8-4DE5-4228-A178-801F77A9852D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6543641F-2D74-4DDD-9E86-386B688E0387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6543641F-2D74-4DDD-9E86-386B688E0387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6543641F-2D74-4DDD-9E86-386B688E0387}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6543641F-2D74-4DDD-9E86-386B688E0387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6543641F-2D74-4DDD-9E86-386B688E0387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6543641F-2D74-4DDD-9E86-386B688E0387}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {39918B37-EDB9-4D5A-9725-AE0354DFB4D9}
+	EndGlobalSection
+EndGlobal
