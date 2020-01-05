@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/OMS/v15/Server/sqlite3/db.lock
+/OMS.SQL/OMS.SQL.dbmdl
+/OMS.SQL/OMS.SQL.jfm
