@@ -1,0 +1,15 @@
+D:\Molina\Projects\OMS\OMS\OMS.SQL\bin\Debug\OMS.SQL.dacpac
+D:\Molina\Projects\OMS\OMS\OMS.SQL\bin\Debug\OMS.SQL.dll
+D:\Molina\Projects\OMS\OMS\OMS.SQL\bin\Debug\OMS.SQL.pdb
+D:\Molina\Projects\OMS\OMS\OMS.SQL\obj\Debug\OMS.SQL.dll
+D:\Molina\Projects\OMS\OMS\OMS.SQL\obj\Debug\OMS.SQL.pdb
+D:\DOTNET\Projects\OMS\OMS.SQL\bin\Debug\OMS.SQL.dacpac
+D:\DOTNET\Projects\OMS\OMS.SQL\bin\Debug\OMS.SQL.dll
+D:\DOTNET\Projects\OMS\OMS.SQL\bin\Debug\OMS.SQL.pdb
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\OMS.SQL.sqlprojAssemblyReference.cache
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\OMS.SQL.dll
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\OMS.SQL.pdb
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\Model.xml
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\refactor.xml
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\postdeploy.sql
+D:\DOTNET\Projects\OMS\OMS.SQL\obj\Debug\predeploy.sql

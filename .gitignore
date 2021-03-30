@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OMS/v15/Server/sqlite3/db.lock
+/OMS.SQL/OMS.SQL.dbmdl
+/OMS.SQL/OMS.SQL.jfm
